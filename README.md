@@ -1,5 +1,4 @@
 # Atividade-Pratica-Tabelas-HTML
-Atividade Prática de Tabelas HTML.
 
 Chegou a hora de aplicar o conhecimento adquirido. Lembrando sempre
 que os exercícios e desafios serão nossos principais indicadores sobre o
